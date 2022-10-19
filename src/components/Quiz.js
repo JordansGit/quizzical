@@ -4,6 +4,8 @@ export default function Quiz(){
 
   return (
     <form>
+      <div className="bg top-right-bg"></div>
+      <div className="bg top-left-bg"></div>
       <div className="qna-block">
         <h2>How would one say goodbye in Spanish?</h2>
         <div className="answers">
